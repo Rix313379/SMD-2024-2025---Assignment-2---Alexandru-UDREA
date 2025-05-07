@@ -13,10 +13,7 @@ I've used an android emulator in order to run the app
 ![Alt text](CH1_image3.png)
 
 After that I've looked into the logs searching for **pico**, reavealing the flag.
-![Alt text](image-3.png)
+![Alt text](CH1_image4.png)
 
+**picoCTF{a.moose.once.bit.my.sister}**
 
-**Flag found: picoCTF{a.moose.once.bit.my.sister}**
-
----
-## [Link to recording](https://youtu.be/eTXPLzGHUgc)
