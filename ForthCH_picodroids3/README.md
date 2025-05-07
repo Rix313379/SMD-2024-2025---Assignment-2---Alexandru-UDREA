@@ -21,6 +21,6 @@ reinstall teh emulator
 adb install three2-signed.apk
 ```
 Finally, it doesn't matter what I introduce because the flag is going to pop up either way.
-![Alt text](image-4.png)
+![Alt text](CH4_image.png)
 
 **picoCTF{tis.but.a.scratch}**
