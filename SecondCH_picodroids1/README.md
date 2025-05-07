@@ -15,7 +15,7 @@ I've searched for the password in the `strings.xml` file, in the `/res/values` d
 ![Alt text](CH2_image2.png)
 
 We can clearly see that the password is `opossum`, and by introducing it into the the input app's box, the second flag is displayed.
-![Alt text](CH2_image3png)
+![Alt text](CH2_image3.png)
 
 **picoCTF{pining.for.the.fjords}**
 
