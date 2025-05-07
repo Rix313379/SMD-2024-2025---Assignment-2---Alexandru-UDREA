@@ -7,6 +7,7 @@ Going trough the files, we take a look at MainActivity and we find _buttonClick_
 ![Alt text](CH1_image1.png)
 
 The _getFlag_ function captures and logs the result of invoking a native method from the JNI library, using the given input as its argument.
+
 ![Alt text](CH1_iamge2.png)
 
 I've used an android emulator in order to run the app
